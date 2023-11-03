@@ -1,12 +1,1 @@
 https://beefree.io/start-designing?template=end-of-year-celebration&type=email&e=true
-<tr>
-                                    <td style="text-align: left; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 14px; line-height: 20px; color: #ffffff;">
-                                        <img src="https://raw.githubusercontent.com/LucasPerrotaRoriz/Images/main/University-Newsletter-Email-img/Your-logo.png" alt="Academic University Logo" width="195" height="auto" border="0"
-                                        style="font-family: 'Inter', Helvetica Neue, 'Helvetica', Arial, 'Lucida Grande', sans-serif; font-size: 15px; background-color: #4f5aba; color: #ffffff;">
-                                    </td>
-                                    <td>
-                                        <p style="font-family: 'Inter', Helvetica Neue, 'Helvetica', Arial, 'Lucida Grande', sans-serif; font-size: 15px; color: #ffffff;">
-                                            Lorem Ipsum
-                                        </p>
-                                    </td>
-                                </tr>
